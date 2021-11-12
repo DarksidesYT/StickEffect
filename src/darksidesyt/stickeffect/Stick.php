@@ -1,5 +1,5 @@
 <?php
-namespace plugin\stickeffect;
+namespace darksidesyt\stickeffect;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
