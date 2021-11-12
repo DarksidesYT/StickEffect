@@ -1,0 +1,5 @@
+name: StickEffect-DSidesYT
+version: 1.0.0
+author: DarksidesYT
+api: 3.0.0
+main: plugin\stickeffect\Stick
